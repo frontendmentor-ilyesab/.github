@@ -2,17 +2,15 @@
 
 ## What is Frontend Mentor
 
-**[Frontend Mentor](https://www.frontendmentor.io/)** is a platform that allows your to improve you web development coding skills by building realistic projects. they have a list of challenges that are well designed. that you can choose to implement and submit on the platform.
+**[Frontend Mentor](https://www.frontendmentor.io/)** is a platform that allows your to improve you web development coding skills by building realistic projects. they have a list of challenges that are well designed with specific requirements. that you can choose to implement and submit on the platform.
 
-There are three kinds of challenges in Frontend Mentor:
+There are two tiers of challenges in Frontend Mentor:
 
-- **FREE :** All assets and designs are in the JPG Format. this means you have to use estimations for things like spacing, sizes and so on.
+- **FREE :** All assets and designs are in the JPG Format. this means you have to use estimations for things like spacing, sizes and so on. these project are single page small apps. and they don't include a tablet layout.
 
-- **FREE+ :** With these challenges you are able to download Figma/Sketch Design files. this allow you to mimic real world development workflows. this type of challenges are a trial to premium content available with the PRO subscription.
+- **PRO :** these challenges require a paid subscription. they are premium challenges. where you can find multi page projects, fully functional applications. you have the figma design file included with a professional design system e.g. a system that helps you plan making reusable components and styles since it details the colors, font sizes and so on used in the design. which allows you to mimic real world development workflows.
 
-- **PRO :** these challenges require a PRO paid subscription. they are premium challenges. where you can find multi page projects, fully functional applications. you have the design file included with a professional design system e.g. a system that helps you plan making reusable components and styles since it details the colors, font sizes and so on used in the design.
-
-Some challenges require only HTML and CSS while others requires Javascript and APIs. the difficulty of challenges spans 5 levels:
+Some challenges require only HTML and CSS while others require Javascript and APIs. the difficulty of challenges spans 5 levels:
 
 1- Newbie
 
@@ -38,7 +36,7 @@ Frontend Mentor also provides you roadmaps to navigate the challenges as a begin
 
 5- Intro to accessibility
 
-I've been using these roadmap to navigate the challenges but as I completed all challenges in these roadmaps (other than the accessibility one). I'll be choosing what to work on from now on. based on the technologies I'm learning.
+I've been using these roadmaps to navigate the challenges but as I completed all challenges in these roadmaps (other than the accessibility one). I'll be choosing what to work on my own roadmaps from now on.
 
 My Own Roadmaps:
 
@@ -47,6 +45,8 @@ My Own Roadmaps:
 ## Repositories Navigation
 
 Below is a table with all the projects done so far. as difficulty rises it's probably a more cool project. there is also the technologies column if you're interested in specific technologies.
+
+### Free Projects
 
 |                 **Project**                 |    **Level**     |                  **Technologies**                  |                   **Roadmamp**                    |                                       **Repo Link**                                       |
 | :-----------------------------------------: | :--------------: | :------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -73,3 +73,9 @@ Below is a table with all the projects done so far. as difficulty rises it's pro
 |              **contact-form**               |    **Junior**    |     **React, NextJS, Typescript, TailwindCSS**     |                **Modern Styling**                 |              [Repo](https://github.com/frontendmentor-ilyesab/contact-form)               |
 |           **age-calculator-app**            |    **Junior**    |     **React, NextJS, Typescript, TailwindCSS**     |                **Modern Styling**                 |           [Repo](https://github.com/frontendmentor-ilyesab/age-calculator-app)            |
 |      **interactive-card-details-form**      |    **Junior**    | **React, Vite, Typescript, ChakraUI, Formik, Yup** |                **Modern Styling**                 |      [Repo](https://github.com/frontendmentor-ilyesab/interactive-card-details-form)      |
+
+### Pro Projects
+
+|             **Project**             | **Level**  |                      **Technologies**                       |    **Roadmamp**    |                                   **Repo Link**                                   |
+| :---------------------------------: | :--------: | :---------------------------------------------------------: | :----------------: | :-------------------------------------------------------------------------------: |
+| **single-page-developer-portfolio** | **Junior** | **React, Vite, Typescript, ChakraUI, Formik, Yup, Express** | **Modern Styling** | [Repo](https://github.com/frontendmentor-ilyesab/single-page-developer-portfolio) |
