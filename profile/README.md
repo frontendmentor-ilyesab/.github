@@ -36,7 +36,7 @@ Frontend Mentor also provides you roadmaps to navigate the challenges as a begin
 
 5- Intro to accessibility
 
-I've been using these roadmaps to navigate the challenges but as I completed all challenges in these roadmaps (other than the accessibility one). I'll be choosing what to work on my own roadmaps from now on.
+I've been using these roadmaps to navigate the challenges but as I completed all challenges in these roadmaps (other than the accessibility one). I'll be choosing to work on my own roadmaps from now on.
 
 My Own Roadmaps:
 
